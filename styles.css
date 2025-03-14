@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+}
+
+.heading {
+  margin-bottom: 20px;
+}
+
+#column-1 {
+  margin-left: 400px;
+  margin-right: 400px;
+}
