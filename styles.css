@@ -1,9 +1,45 @@
+
+
 body {
+  background-color: #22222f;
   padding: 20px;
+}
+
+.header-text {
+  color: #ffcc00
+}
+
+.basic-text {
+  color: white; 
 }
 
 .heading {
   margin-bottom: 20px;
+}
+
+#week-container {
+  padding: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  border-style: solid;
+  border-color: white;
+  background-color: #22222f;
+  border-radius: 30px;
+}
+#week-header {
+  margin-bottom: 10px;
+}
+
+#week-text {
+  margin-left: 20px;
+}
+
+#day-text {
+  margin-left: 20px;
+}
+
+#day-container {
+  background-color: #22222f;
 }
 
 #categories {
