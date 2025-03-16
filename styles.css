@@ -88,3 +88,7 @@ hr {
 .homework-day-1 {
   margin-left: 20px;
 }
+
+mark {
+  background-color: rgb(211, 146, 210);
+}
