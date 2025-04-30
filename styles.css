@@ -4,8 +4,17 @@ body {
 }
 
 .header-text {
-  font-family: 'Catamaran';
+  font-family: 'Source Sans',;
   color: white;
-  font-size: 30px;
+  font-size: 1.5em;
   font-weight: 700;
+}
+
+.card-row {
+  padding: 20px;
+}
+
+.card-title-text {
+  font-family: 'Source Sans',;
+  font-weight: 600;
 }
