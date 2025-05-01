@@ -18,3 +18,14 @@ body {
   font-family: 'Source Sans',;
   font-weight: 600;
 }
+
+.nav-link {
+  font-family: 'Source Sans',;
+  font-size: 1.00em;
+}
+
+.nav-text {
+  font-family: 'Source Sans',;
+  font-size: 1.00em;
+  color: white;
+}
